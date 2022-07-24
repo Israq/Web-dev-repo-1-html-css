@@ -1,4 +1,43 @@
+*{
+    text-align: right;
+}
+
 p {
-    background-color: blue;
-    color: azure;
+    background-color: transparent;
+    color: white;
+    font-size: larger;
+}
+body {
+    
+    background-size: cover;
+}   
+
+h2 {
+    color: #76276C;
+    cursor: pointer;
+    border: 6px solid rgba(255, 176, 170, 8);
+    
+    text-align: center;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+p {
+    color: black;
+    font-size: x-large;
+}
+
+.webtext : last-child{
+   color: #76276C;
+   border: 5px solid;
+   border-color: black;
+}
+.webtext2 :last-child{
+    color: aquamarine;
+    border: 5px  dashed red;
+    border-top-color: aqua;
+}
+#div1{
+    background: rgba(0, 0, 255, 0.3);
 }

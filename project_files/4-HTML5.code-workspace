@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../4-HTML5"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project_files"
+	}
+}
