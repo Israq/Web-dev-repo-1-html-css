@@ -1,8 +1,50 @@
-p {
-    background-color: transparent;
-    color: white;
-    font-size: larger;
+*{
+    text-align: right;
 }
-body {
-    background-image: url(background2.avif);
-}   background-size: cover;
+body{
+    background-image: ;
+}
+
+  
+
+h2 {
+    color: #030000;
+    cursor: pointer;
+    text-align: center;
+    font-size: xx-large;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+
+.webtext:first-child{
+    border: 8px dashed green;
+}
+.webtext2:last-child{
+    
+    border: 5px  dashed red;
+}
+#div1{
+    background: rgba(0, 0, 255, 0.3);
+}
+#div3 > p{
+    color: blue;
+    font-size: 200%;
+    text-transform: uppercase;
+    line-height: 60px;
+    font-weight: bolder;
+    font-style: oblique;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    border: 5px solid black;
+}
+img{
+    float: right;
+}
+footer > h1{
+    clear: both;
+    text-align: center;
+}
